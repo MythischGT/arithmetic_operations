@@ -33,7 +33,7 @@ python main.py --operation square_and_multiply --base <base> --exponent <exponen
 **Example:**
 \`\`\`bash
 python main.py --operation square_and_multiply --base 5 --exponent 3 --modulus 13
-# Output: Result: 125
+# Output: Result: 8
 \`\`\`
 
 ### Find Modular Inverse
