@@ -34,6 +34,7 @@ class ArithmeticOperations:
     # python main.py <base> <exponent> <modulus>
     # Example:
     # python main.py 5 3 13
+    # This will calculate (5^3) mod 13, which equals 8.
     def square_and_multiply(self, base, exponent, modulus):
         result = 1
         base = base % modulus
